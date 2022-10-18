@@ -1,2 +1,2 @@
-# repository
+# Du2ya repository
 repository
